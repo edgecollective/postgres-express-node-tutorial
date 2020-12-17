@@ -1,3 +1,8 @@
+# Combination
+
+Trying to combine with [this code](https://bezkoder.com/node-js-jwt-authentication-postgresql/)
+
+
 # Getting Started With Node, Express and Postgres (using Sequelize)
 
 This repo houses code for the blog ["Getting Started with Node, Express and Postgres (using Sequelize)"](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize)
